@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 12 17:53:34 2025
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : cam_proj
+Top-level Entity Name : cam_proj_top
+Family : Cyclone IV E
+Total logic elements : 6,127
+    Total combinational functions : 5,467
+    Dedicated logic registers : 2,307
+Total registers : 2307
+Total pins : 87
+Total virtual pins : 0
+Total memory bits : 268,975
+Embedded Multiplier 9-bit elements : 25
+Total PLLs : 2
